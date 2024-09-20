@@ -1,0 +1,7 @@
+com\mycompany\view\GUIFrame.class
+com\mycompany\view\PanelColor.class
+com\mycompany\inicio\Main.class
+com\mycompany\controller\Controller.class
+com\mycompany\view\PanelCanvas.class
+com\mycompany\view\PanelCanvas$1.class
+com\mycompany\view\PanelMove.class
